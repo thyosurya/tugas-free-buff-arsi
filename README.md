@@ -5,6 +5,12 @@ Next.js (App Router), TypeScript, Tailwind CSS, dan SQLite. Tampilan memakai pal
 monokrom (hitam / putih / abu) yang ringan dan minimalis, mendukung mode gelap bawaan
 sistem.
 
+## Tampilan
+
+![Screenshot 1](screenshot%20ui/screenshot%201.png)
+
+![Screenshot 2](screenshot%20ui/screenshot%202.png)
+
 ## Fitur
 
 **Guru**
